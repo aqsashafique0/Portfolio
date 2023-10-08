@@ -67,7 +67,7 @@ img {
   color: #7f8cff;
   text-transform: uppercase;
   align-self: flex-start;
-  margin-left: 23px;
+  margin-left: 25px;
 }
 
 .icons {
@@ -75,7 +75,7 @@ img {
   justify-content: space-between;
   width: 170.17;
   align-self: flex-start;
-  margin-left: 12px;
+  margin-left: 25px;
 }
 
 .works-section {
