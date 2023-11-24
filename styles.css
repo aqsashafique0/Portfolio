@@ -31,6 +31,9 @@ header .logo {
 header .items-wrap {
   display: none;
 }
+.items:hover{
+  opacity: 0.6;;
+}
 
 .headline-section {
   background-image: url(./svgs/header-shapes\ mobile@2x.svg);
@@ -267,6 +270,10 @@ header .items-wrap {
   font-weight: 500;
   line-height: 20px;
 }
+.connect-btn:hover{
+  background-color: lightgray;
+}
+
 
 .frame,
 .lang-section > div {
@@ -372,6 +379,9 @@ form textarea {
 
 .desktop {
   display: none;
+}
+.see-project-btn:hover{
+  background-color: rgb(230, 215, 215);
 }
 
 @media only screen and (min-width: 768px) {
